@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+@import url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.css);
+
+
+*{
+    font-family: 'Poppins', sans-serif;
+    
+}
+
+
+
+.navbar{
+    background-color: rgb(0, 0, 0);
+    border: none;
+    border-color: transparent;
+}
+
+.jumbotron{
+    padding: 0rem 2rem;
+    color: white;
+    background: linear-gradient( black,#61677A);
+}
+
+#about{
+    background-color: #FFF6E0;
+}
+
+.foto{
+    width: 100px;
+    height: 100px;
+    padding: 10px;
+    border: 1px solid rgba(255, 255, 255, 0.18);
+    border-radius: 30px;
+    box-shadow: 0px 4px 8px 0px black;
+    background-color: black;
+}
+
+#projects{
+    background: linear-gradient(#61677A,black);
+}
+
+
